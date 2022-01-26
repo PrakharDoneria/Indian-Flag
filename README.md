@@ -1,2 +1,2 @@
 # Indian-Flag
-This program wilp make Indian Flag
+This program will make Indian Flag
